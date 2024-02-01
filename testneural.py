@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Путь к видеофайлу
-video_path = 'vidCHUVASH.mp4'
+video_path = 'path'
 
 # Создать каталог для сохранения кадров
 output_directory = 'frames'
